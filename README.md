@@ -1,6 +1,6 @@
 # React-Admin Dashboard Web App
 
-![add](dashboard.gif)
+![add](dashboard1.gif)
 
 ## Getting Started with Create React App
 
